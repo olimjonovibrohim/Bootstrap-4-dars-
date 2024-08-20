@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(220, 220, 220);
+}
+.tor{
+    position: absolute;
+    width: 370px;
+    margin-top: -510px;
+    margin-left: 335px;
+    background-color: white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.bg-ix{
+    text-align: center;
+    background-color: rgb(255, 171, 185);
+    height: 600px;
+}
+.dom{
+    width: 350px;
+    height: 70px;
+    margin-left: 345px;
+    margin-top: 40px;
+}
+.honey{
+    position: absolute;
+    background-color: rgb(220, 220, 220);
+    width: 370px;
+    height: 610px;
+    margin-top: -23px;
+    margin-left: 350px;
+    border-radius: 10px;
+}
+.photo{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    float: left;
+}
+.left{
+    float: left;
+}
+.posh{
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.push{
+    position: absolute;
+    color: palevioletred;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.yoz{
+    position: absolute;
+    margin-left: 70px;
+}

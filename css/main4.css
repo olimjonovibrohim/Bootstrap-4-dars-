@@ -1,0 +1,16 @@
+.hit{
+    text-align: center;
+}
+.kol{
+    color: white;
+    text-align: center;
+    background: linear-gradient(90deg,#17a2b8,#28a745);
+}
+.kol-item1{
+    margin-top: 50px;
+}
+.btn-ol{
+    border: 2px solid white;
+    margin-top: 20px;
+    border-radius: 20px;
+}
